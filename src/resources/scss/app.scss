@@ -5,5 +5,23 @@ h1 {
 }
 
 h2 {
-  color: rgb(1, 255, 170);
+  color: rgb(255, 194, 238);
+}
+
+.card-course-item {
+  max-height: 499px;
+  margin-top: 16px;
+}
+
+.card-title {
+  height: 72px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-text {
+  // max-width: 381px;
+  max-height: 100px;
+  overflow: hidden;
+  // text-overflow: ellipsis;
 }
